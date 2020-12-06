@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass gustavo/scss/style.scss gustavo/css/style.css --no-source-map",
-    "style-min": "sass gustavo/scss/style.scss gustavo/css/style.min.css --no-source-map --style compressed"
+    "style": "npm run style-light && npm run style-dark",
+    "style-min": "npm run style-light-min && npm run style-dark-min",
+    "style-dark": "sass gustavo/scss/style-dark.scss gustavo/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass gustavo/scss/style-dark.scss gustavo/css/style-dark.min.css --no-source-map --style compressed",
+    "style-light": "sass gustavo/scss/style.scss gustavo/css/style.css --no-source-map",
+    "style-light-min": "sass gustavo/scss/style.scss gustavo/css/style.min.css --no-source-map --style compressed"
   },
   "keywords": [],
   "author": "",

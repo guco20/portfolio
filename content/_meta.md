@@ -11,5 +11,11 @@ Social:
     - title: Linux
       url: https://www.linux.org
       icon: linux
+    - title: Dark Mode
+      url: ?action=theme
+      icon: moon-o
+    - title: Destroy Session
+      url: ?action=session_destroy
+      icon: trash-o
 ---
 
