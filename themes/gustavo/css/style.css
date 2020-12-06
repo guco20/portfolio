@@ -394,7 +394,7 @@ body {
 }
 
 .nav-container {
-  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid #81a18a;
 }
 
 .container {
@@ -412,7 +412,7 @@ body {
 }
 
 .header {
-  background: #fff;
+  background: #ececec;
 }
 
 .title,
@@ -423,7 +423,7 @@ body {
 
 .title * {
   margin: 0;
-  color: #111;
+  color: #333;
 }
 
 .title p {
@@ -467,7 +467,7 @@ body {
 
 .nav ul li:hover {
   color: #000 !important;
-  background-color: #eee;
+  background-color: #81a18a;
   transition: background-color 0.1s ease-in-out;
 }
 
@@ -488,8 +488,8 @@ body {
 }
 
 .footer {
-  border-top: 1px solid #333;
-  background: #ececec;
+  border-top: 1px solid #81a18a;
+  background: #ededed;
   color: #333;
 }
 
@@ -498,7 +498,7 @@ body {
 }
 
 .footer a:hover {
-  color: #000;
+  text-decoration: none;
 }
 
 .footer p {
@@ -520,7 +520,7 @@ body {
 
 .kmom-box {
   border-radius: 15px;
-  background-color: #f1f1f1;
+  background-color: #ededed;
   padding: 1em;
   height: 200px;
   cursor: pointer;
@@ -534,6 +534,7 @@ body {
 }
 
 .kmom-box.title {
+  color: #333;
   grid-column: span 3;
   background-color: #fff;
   height: 75px;
@@ -545,7 +546,7 @@ body {
 }
 
 .kmom-box:hover {
-  background-color: #d8d8d8;
+  background-color: #81a18a;
 }
 
 .kmom-container {
@@ -561,6 +562,9 @@ body {
 }
 .kmom-sidebar a {
   font-size: 1.3em;
+}
+.kmom-sidebar a:hover {
+  color: #81a18a;
 }
 
 .kmom-content {

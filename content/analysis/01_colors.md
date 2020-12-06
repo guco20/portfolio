@@ -6,7 +6,7 @@ Description: Sida för redovisning av Färganalys
 Utvärdera webbplatsers färgval
 =======================
 
-I dennra rapport undersöks färgval och typografi för olika webbplatser.
+I denna rapport så har jag undersökt färgscheman och typografi som används av ett antal webbplatser och därefter dokumenterat resultateten av min analys.
 
 Urval
 -----------------------
@@ -16,7 +16,7 @@ Jag valde att undersöka webbplatserna för tre av de mest populära JavaScript-
 Metod
 -----------------------
 
-För denna analys så har jag använt mig av Chrome Developer Tools för att ta reda på vilka färger samt vilken typografi som webbplatserna använder sig av. Jag använde mig även av verktyget Adobe Color för att undersöka vilken typ att färgschema som användes.
+I denna analys så har jag använt mig av Chrome Developer Tools för att ta reda på vilka färger samt vilket typsnitt som webbplatserna använder sig av. Jag använde mig även av verktyget Adobe Color för att undersöka vilken typ att färgschema som användes.
 
 Resultat
 -----------------------
@@ -31,12 +31,15 @@ Resultat
 </table>
 
 React har valt att använda sig av en ljusturkos accentfärg tillsammans med två nyanser av väldigt mörkblå färger som närmar sig svart. Webbplatsen har inget regelrätt färgschema men skulle till viss del kunna tolkas att ha en minimalistisk kompromiss någonstans mellan ett analogt och ett monokromatiskt färgschema gällande de två mörkblå färgerna.
+
 Accentfärgen används sparsamt för att framhäva det mest huvudsakliga med webbplatsens syfte. I det här fallet så är det namnet på projektet, en knapp som tar en till dokumentationen samt en länk till en tutorial.
 
 Den mörkare av de två mörkblå färgerna används som bakgrundsfärg för navbaren samt footern. Den ljusare av de två mörkblå färgerna används som bakgrundsfärg till hero-sektionen för webbplatsen.
 
 Det typsnitt som används på webbplatsen är Segoe UI som tillhör kategorin Sans-serif. Detta gäller navbaren, de olika heading-elementen samt brödtexten. Undantaget är de kodexempel som finns på webbplatsen vilka i stället använder sig av typsnittet Menlo som även den tillhör kategorin Sans-serif.
+
 Jag anser att webbplatsens färgval och typografi överensstämmer mycket bra med Reacts profil som projekt. Både webbplatsen och React som projekt bygger på minimalism och enkelhet. Den accentfärg som används på webbplatsen är dessutom samma färg som Reacts logga.
+
 
 <b>Angulars</b> färgpalett: #0D47A1, #42A5F5, #1976D2, #C3002F, #DD0031
 
@@ -69,11 +72,12 @@ Jag anser webbplatsens färgval och typografi återspeglar Angulars profil på e
 </tr>
 </table>
 
-Webbplatsen är extremt minimalistisk gällande färger. En ljusare grön färg (#42B983) används som accentfärg för knapparna på webbplatsen samt även för tre headings som beskriver fördelarna med att använda sig av Vue som JavaScript-ramverk. Utöver detta så hittar vi en mycket mörk och något gråaktig turkos färg (#475050) i webbplatsens footer. Dessa två färger återspeglar färgerna i Vues logga. Webbplatsen använder sig inte av ett regelrätt färgschema.
+Webbplatsen är extremt minimalistisk gällande färger. En ljusare grön färg (#42B983) används som accentfärg för knapparna på webbplatsen samt även för tre headings som beskriver fördelarna med att använda sig av Vue som JavaScript-ramverk. Utöver detta så hittar vi en mycket mörk och något gråaktig turkos färg i webbplatsens footer. Dessa två färger återspeglar färgerna i Vues logga. Webbplatsen använder sig inte av ett regelrätt färgschema.
 
 Typsnittet som i huvudsak används av webbplatsen är Open Sans som tillhör kategorin Sans-serif. Detta typsnitt används både för headings och för brödtexten. För menyalternativen i navbaren används dock typsnittet Inter, som även den tillhör kategorin Sans-serif.
 
-Jag anser att sidans mycket minimalistiska val av färger väl återspeglar Vues simplistiska designfilosofi som JavaScript-ramverk som går ut på enkelhet och en lätt foot-print. Typsnittet ger även ett modernt och enkelt intryck.
+Jag anser att sidans mycket minimalistiska val av färger väl återspeglar Vues simplistiska designfilosofi som JavaScript-ramverk som går ut på enkelhet och en lätt footprint. Typsnitten ger även ett modernt och enkelt intryck.
+
 
 Analys
 -----------------------
@@ -87,6 +91,7 @@ I det här fallet så kan dock avsaknaden av implementering av nämnda modeller 
 Det är dessutom utan tvivel ett intressant faktum i sammanhanget att det tyngsta och mer komplexa ramverket (Angular) även kan anses ha den mest komplexa sidan gällande design och färgpalett.
 
 Vad gäller de förekommande typsnitten så kan vi konstatera att samtliga webbplatser använde sig av typsnitt tillhörande kategorin Sans-serif. Jag anser att detta är naturligt då typsnitt av denna kategori kan anses ha en väldigt modern och teknisk feel jämfört med Serif. En strävan efter och tyngd på modernitet är så klart mycket angelägen och möjligtvis helt naturlig när det kommer till webbplatser som tillhandahåller information och dokumentation kring några av världens mest populära JavaScript-ramverk.
+
 
 Referenser
 -----------------------

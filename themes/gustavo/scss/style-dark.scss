@@ -1,10 +1,3 @@
-$test: #6E6363;
-$triad-color-1: $test;
-$triad-color-2: #33332E;
-$triad-color-3: #212121; // BASE
-$triad-color-4: #1E2021;
-$triad-color-5: #63696E;
-
 @import '../../shared/scss/base';
 @import '../../shared/css/font-awsome.min.css';
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
@@ -243,6 +236,10 @@ body {
 
     a {
         font-size: 1.3em;
+    }
+
+    a:hover {
+        color: $triad-color-1;
     }
 }
 

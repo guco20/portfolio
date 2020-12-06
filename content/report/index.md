@@ -23,8 +23,9 @@ SASS är något som jag bekant med sedan tidigare och det är något som utan tv
 Det gick allmänt smidigt att jobba med både CSS Grid och Flexbox. Jag har sedan tidigare erfarenhet av Flexbox som jag tycker är särskilt lätt att...
 </div>
 
-<div class="kmom-box">
+<div class="kmom-box" onclick="window.location='report/kmom04';">
 <h3>Kmom04</h3>
+Jag uppfattade skrivuppgiften som allmänt ganska klurig då ingen av de webbplatser som jag valde att analysera använda sig av något regelrätt färgschema...
 </div>
 
 <div class="kmom-box">
