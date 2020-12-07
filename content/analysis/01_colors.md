@@ -1,6 +1,6 @@
 ---
 Title: Färganalys
-Description: Sida för redovisning av Färganalys
+Description: Sida för redovisning av rapporten Färganalys
 ---
 
 Utvärdera webbplatsers färgval

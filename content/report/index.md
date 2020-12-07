@@ -28,8 +28,9 @@ Det gick allmänt smidigt att jobba med både CSS Grid och Flexbox. Jag har seda
 Jag uppfattade skrivuppgiften som allmänt ganska klurig då ingen av de webbplatser som jag valde att analysera använda sig av något regelrätt färgschema...
 </div>
 
-<div class="kmom-box">
+<div class="kmom-box" onclick="window.location='report/kmom05';">
 <h3>Kmom05</h3>
+Att genomföra undersökningen av webbplatsers laddningstid var både kul och lärorik. Verktyget Google PageSpeed Insights hade jag ingen...
 </div>
 
 <div class="kmom-box">
