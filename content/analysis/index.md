@@ -15,7 +15,7 @@ I denna rapport så har jag undersökt färgscheman och typografi som används a
 
 <div class="kmom-box" onclick="window.location='analysis/02_load';">
 <h3>Laddningstider för webbplatser</h3>
-I denna rapport så har jag undersökt laddningstider av ett antal webbplatser och därefter dokumenterat resultateten av min analys
+I denna rapport så har jag undersökt laddningstider av ett antal webbplatser och därefter dokumenterat...
 </div>
 
 <div class="kmom-box" onclick="window.location='analysis/03_design_principles';">

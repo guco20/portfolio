@@ -30,6 +30,8 @@ Resultat
 </tr>
 </table>
 
+![React](%assets_url%/img/react.jpg){.image .center}
+
 React har valt att använda sig av en ljusturkos accentfärg tillsammans med två nyanser av väldigt mörkblå färger som närmar sig svart. Webbplatsen har inget regelrätt färgschema men skulle till viss del kunna tolkas att ha en minimalistisk kompromiss någonstans mellan ett analogt och ett monokromatiskt färgschema gällande de två mörkblå färgerna.
 
 Accentfärgen används sparsamt för att framhäva det mest huvudsakliga med webbplatsens syfte. I det här fallet så är det namnet på projektet, en knapp som tar en till dokumentationen samt en länk till en tutorial.
@@ -53,6 +55,8 @@ Jag anser att webbplatsens färgval och typografi överensstämmer mycket bra me
 </tr>
 </table>
 
+![Angular](%assets_url%/img/angular.jpg){.image .center}
+
 Webbplatsen använder sig av en linear-gradient som bakgrund för den övre delen av sidan. Denna gradient börjar från en mörkare blå färg (#0D47A1) och övergår till en ljusare blå färg (#42A5F5). Ytterligare en blå färg (#1976D2) används för headings på webbplatsen.
 
 Två röda färger skulle kunna tolkas som accentfärger. Dessa är en mörkare röd (#C3002F) och en ljusare röd (#DD0031). Dessa förekommer dock nästan uteslutande i Angulars logga. Loggan används dock i flera sektioner på webbplatsen och kompletterar särskilt den blåa bakgrunden på ett väldigt slående sätt.
@@ -71,6 +75,8 @@ Jag anser webbplatsens färgval och typografi återspeglar Angulars profil på e
 <td style="height: 50px; width: 50px; background-color: #475050">
 </tr>
 </table>
+
+![Vue](%assets_url%/img/vue.jpg){.image .center}
 
 Webbplatsen är extremt minimalistisk gällande färger. En ljusare grön färg (#42B983) används som accentfärg för knapparna på webbplatsen samt även för tre headings som beskriver fördelarna med att använda sig av Vue som JavaScript-ramverk. Utöver detta så hittar vi en mycket mörk och något gråaktig turkos färg i webbplatsens footer. Dessa två färger återspeglar färgerna i Vues logga. Webbplatsen använder sig inte av ett regelrätt färgschema.
 
