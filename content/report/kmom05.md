@@ -16,5 +16,5 @@ Min allmänna uppfattning kring bilder för webben är att försöka optimera s�
 Mitt TIL för detta moment blir vilket intressant och användbart verktyg Google PageSpeed Insights är att analysera webbplatser med.
 
 <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/W4Ou96H-cPc" frameborder="0" allowfullscreen></iframe>
+    <iframe title="title" src="https://www.youtube.com/embed/W4Ou96H-cPc" frameborder="0" allowfullscreen></iframe>
 </div>

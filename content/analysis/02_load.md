@@ -6,7 +6,7 @@ Description: Sida för redovisning av rapporten Laddningstider
 Laddningstider för webbplatser
 ==========================
 
-I denna rapport så har jag undersökt laddningstider av ett antal webbplatser och där efter dokumenterat resultateten av min analys.
+I denna rapport så har jag undersökt laddningstider av ett antal webbplatser och därefter dokumenterat resultateten av min analys.
 
 Urval
 -----------------------

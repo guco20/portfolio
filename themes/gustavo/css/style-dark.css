@@ -424,7 +424,7 @@ body {
 
 .title * {
   margin: 0;
-  color: #63696e;
+  color: #999fa3;
 }
 
 .title p {
@@ -474,13 +474,13 @@ body {
 
 .nav a,
 .nav-toggle {
-  color: #63696e;
+  color: #999fa3;
 }
 
 .nav .active a,
 .nav a:hover,
 .nav-toggle:hover {
-  color: #63696e;
+  color: #999fa3;
   text-decoration: none;
 }
 
@@ -491,15 +491,15 @@ body {
 .footer {
   border-top: 1px solid #333;
   background: #1e2021;
-  color: #63696e;
+  color: #999fa3;
 }
 
 .footer a {
-  color: #63696e;
+  color: #999fa3;
 }
 
 .footer a:hover {
-  color: #6e6363;
+  color: #999fa3;
   text-decoration: none;
 }
 
@@ -533,7 +533,7 @@ body {
   height: 200px;
   cursor: pointer;
 }
-.kmom-box h3 {
+.kmom-box h2 {
   text-align: center;
 }
 
@@ -565,10 +565,10 @@ body {
 }
 
 .kmom-box:hover {
-  background-color: #6e6363;
+  background-color: #999fa3;
   color: #1e2021;
 }
-.kmom-box:hover h3 {
+.kmom-box:hover h2 {
   color: #1e2021;
 }
 
@@ -587,7 +587,7 @@ body {
   font-size: 1.3em;
 }
 .kmom-sidebar a:hover {
-  color: #6e6363;
+  color: #999fa3;
 }
 
 .kmom-content {
@@ -687,7 +687,7 @@ body {
   font-variant-ligatures: common-ligatures;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
-  color: #63696e;
+  color: #999fa3;
 }
 
 p,
@@ -715,7 +715,7 @@ fieldset {
 }
 
 a {
-  color: #63696e;
+  color: #999fa3;
   text-decoration: none;
   transition: color 0.2s ease-in;
 }
@@ -733,7 +733,7 @@ h5,
 h6 {
   margin-bottom: 0.6em;
   font-weight: bold;
-  color: #63696e;
+  color: #999fa3;
 }
 
 h1 {
